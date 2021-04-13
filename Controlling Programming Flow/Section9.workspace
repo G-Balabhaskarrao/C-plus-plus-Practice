@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section9" Database="" Version="10000">
+  <Project Name="IfStatement" Path="IfStatement/IfStatement.project" Active="No"/>
+  <Project Name="Grades" Path="Grades/Grades.project" Active="No"/>
+  <Project Name="Switch" Path="Switch/Switch.project" Active="No"/>
+  <Project Name="SwitchEnum" Path="SwitchEnum/SwitchEnum.project" Active="No"/>
+  <Project Name="forloop" Path="forloop/forloop.project" Active="No"/>
+  <Project Name="RangebasedForloop" Path="RangebasedForloop/RangebasedForloop.project" Active="No"/>
+  <Project Name="whileloop" Path="whileloop/whileloop.project" Active="No"/>
+  <Project Name="dowhileloop" Path="dowhileloop/dowhileloop.project" Active="No"/>
+  <Project Name="Nestedloops" Path="Nestedloops/Nestedloops.project" Active="No"/>
+  <Project Name="Histogram" Path="Histogram/Histogram.project" Active="No"/>
+  <Project Name="SectionChallenge" Path="SectionChallenge/SectionChallenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="IfStatement" ConfigName="Debug"/>
+      <Project Name="Grades" ConfigName="Debug"/>
+      <Project Name="Switch" ConfigName="Debug"/>
+      <Project Name="SwitchEnum" ConfigName="Debug"/>
+      <Project Name="forloop" ConfigName="Debug"/>
+      <Project Name="RangebasedForloop" ConfigName="Debug"/>
+      <Project Name="whileloop" ConfigName="Debug"/>
+      <Project Name="dowhileloop" ConfigName="Debug"/>
+      <Project Name="Nestedloops" ConfigName="Debug"/>
+      <Project Name="Histogram" ConfigName="Debug"/>
+      <Project Name="SectionChallenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="no">
+      <Environment/>
+      <Project Name="IfStatement" ConfigName="Release"/>
+      <Project Name="Grades" ConfigName="Release"/>
+      <Project Name="Switch" ConfigName="Release"/>
+      <Project Name="SwitchEnum" ConfigName="Release"/>
+      <Project Name="forloop" ConfigName="Release"/>
+      <Project Name="RangebasedForloop" ConfigName="Release"/>
+      <Project Name="whileloop" ConfigName="Release"/>
+      <Project Name="dowhileloop" ConfigName="Release"/>
+      <Project Name="Nestedloops" ConfigName="Release"/>
+      <Project Name="Histogram" ConfigName="Release"/>
+      <Project Name="SectionChallenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
