@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section8" Database="" Version="10000">
+  <Project Name="Assignmentoperator" Path="Assignmentoperator/Assignmentoperator.project" Active="No"/>
+  <Project Name="Currencyconverter" Path="Currencyconverter/Currencyconverter.project" Active="No"/>
+  <Project Name="IncrementDecrementOperator" Path="IncrementDecrementOperator/IncrementDecrementOperator.project" Active="No"/>
+  <Project Name="MixedTypeExpressions" Path="MixedTypeExpressions/MixedTypeExpressions.project" Active="No"/>
+  <Project Name="Equalityoperators" Path="Equalityoperators/Equalityoperators.project" Active="No"/>
+  <Project Name="RelationalOperators" Path="RelationalOperators/RelationalOperators.project" Active="No"/>
+  <Project Name="Logicaloperators" Path="Logicaloperators/Logicaloperators.project" Active="No"/>
+  <Project Name="SectionChallenge" Path="SectionChallenge/SectionChallenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Assignmentoperator" ConfigName="Debug"/>
+      <Project Name="Currencyconverter" ConfigName="Debug"/>
+      <Project Name="IncrementDecrementOperator" ConfigName="Debug"/>
+      <Project Name="MixedTypeExpressions" ConfigName="Debug"/>
+      <Project Name="Equalityoperators" ConfigName="Debug"/>
+      <Project Name="RelationalOperators" ConfigName="Debug"/>
+      <Project Name="Logicaloperators" ConfigName="Debug"/>
+      <Project Name="SectionChallenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Assignmentoperator" ConfigName="Release"/>
+      <Project Name="Currencyconverter" ConfigName="Release"/>
+      <Project Name="IncrementDecrementOperator" ConfigName="Release"/>
+      <Project Name="MixedTypeExpressions" ConfigName="Release"/>
+      <Project Name="Equalityoperators" ConfigName="Release"/>
+      <Project Name="RelationalOperators" ConfigName="Release"/>
+      <Project Name="Logicaloperators" ConfigName="Release"/>
+      <Project Name="SectionChallenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
